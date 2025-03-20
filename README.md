@@ -96,22 +96,24 @@ Ejercicio 1:
 5. Finalizar el algoritmo 
 
 Ejercicio 2:
+algoritmo Validación 
 
-algoritmo Positivo
+ Definir K como entero;
 
-Definir K como entero
+Repetir 
 
-Escribir "Escriba un número"
+Mostrar "Escriba un número";
 
-Leer K
+Leer K;
+
+Hasta que K >0
 
 Si K > 0 entonces mostrar "positivo"
 
-Sino Escribir "negativo"
+Finsi
 
-Finsi 
+    finalgoritmo
 
-finalgoritmo
 
 Ejercicio 3:
 
