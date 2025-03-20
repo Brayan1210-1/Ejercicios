@@ -84,6 +84,14 @@ Ejercicio 1:
 
 Ejercicio 2:
 
+algoritmo Positivo
+ Definir K como entero
+Escribir "Escriba un número"
+Leer K
+Si K > 0 entonces mostrar "positivo"
+Sino Escribir "negativo"
+Finsi 
+finalgoritmo
 
 
 
