@@ -66,5 +66,15 @@ Sino "no está"
 
 Ejercicio 5: Lo hice en una app de celular que se llama "pseudocode"
 
+algoritmo holaMundo
+ Definir A como Real;
+Mostrar " escriba un número para saber si es par o impar: ";
+Leer A;
+Si  A%2  =0 entonces mostrar "par ";
+Sino mostrar " Impar";
+Finsi 
+    finalgoritmo
+
+
 
 
