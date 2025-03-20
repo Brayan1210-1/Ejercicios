@@ -66,13 +66,19 @@ Sino "no está"
 
 Ejercicio 5: 
 algoritmo Par_o_Impar
+
  Definir A como Real
+
 Escribir " escriba un número para saber si es par o impar: "
+
 Leer A
 Si  A%2  =0 entonces mostrar "par "
+
 Sino Escribir " Impar"
+
 Finsi 
-    finalgoritmo
+
+finalgoritmo
 
 Clase 4:
 Ejercicio 1:
@@ -85,12 +91,19 @@ Ejercicio 1:
 Ejercicio 2:
 
 algoritmo Positivo
- Definir K como entero
+
+Definir K como entero
+
 Escribir "Escriba un número"
+
 Leer K
+
 Si K > 0 entonces mostrar "positivo"
+
 Sino Escribir "negativo"
+
 Finsi 
+
 finalgoritmo
 
 
