@@ -64,6 +64,7 @@ Si número > 10 && número < 20
 Entonces escribir "si está"
 Sino "no está"
 
-Ejercicio 5:
+Ejercicio 5: Lo hice en una app de celular que se llama "pseudocode"
+
 
 
