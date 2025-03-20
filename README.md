@@ -113,6 +113,13 @@ Finsi
 
 finalgoritmo
 
+Ejercicio 3:
 
+1. Definir las variables Num1, Num2, Num3, result como real
 
+2. Pedirle al usuario que ingrese un valor para cada Número 
+
+3. Asignarle el resultado de la suma a resul ( result = Num1 + Num2 + Num 3)
+
+4. hacer la suma y mostrarla al usuario 
 
