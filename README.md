@@ -96,13 +96,14 @@ Ejercicio 1:
 5. Finalizar el algoritmo 
 
 Ejercicio 2:
+
 algoritmo Validación 
 
  Definir K como entero;
 
 Repetir 
 
-Mostrar "Escriba un número";
+Escribir"Escriba un número";
 
 Leer K;
 
@@ -124,4 +125,27 @@ Ejercicio 3:
 3. Asignarle el resultado de la suma a resul ( result = Num1 + Num2 + Num 3)
 
 4. hacer la suma y mostrarla al usuario 
+
+Ejercicio 5:
+algoritmo Multiplicación 
+
+ Definir Num1, Num2, Res como real;
+
+Escribir "ingrese un número para 
+
+multiplicar: 5"
+
+Leer Num1
+
+Mostrar "Ingrese un número para multiplicar: 10"
+
+Leer Num2
+
+Res <- 5*10
+
+Escribir " El resultado es ",Res
+
+El resultado es 50
+
+    finalgoritmo
 
