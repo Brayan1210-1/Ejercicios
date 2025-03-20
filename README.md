@@ -26,26 +26,44 @@ El patrón es que los números aumentan de 2 en 2
 La relación que tienen es que son pares, enteros y naturales 
 
 Clase 2:
+Ejercicio 1:
 Algoritmo Par_Impar 
 
 Inicio
 
 Se define A como real
 
-Mostrar "escriba un número para saber si es par o impar"
+Escribir "escriba un número para saber si es par o impar"
 
 Leer A
 
 Si la división de A entre 2 no tiene residuo entonces se muestra "Par"
 
-Sino se muestra "impar"
+Sino Escribir "impar"
 
 Finsi
 
 Finalgoritmo
 
-Clase 3:
+Ejercicio 3:
 
 -Búsqueda secuencial en una lista O(n)
 -Ordenamiento por burbuja O(n²)
 -Búsqueda binaria en array ordenado O(log n)
+
+Clase 3:
+Ejercicio 1:
+ Definir edad como entero
+Edad = 18
+
+Ejercicio 2:
+2. 18+2 > 7*2
+
+Ejercicio 4:
+Si número > 10 && número < 20
+Entonces escribir "si está"
+Sino "no está"
+
+Ejercicio 5:
+
+
