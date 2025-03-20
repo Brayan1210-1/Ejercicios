@@ -64,17 +64,25 @@ Si número > 10 && número < 20
 Entonces escribir "si está"
 Sino "no está"
 
-Ejercicio 5: Lo hice en una app de celular que se llama "pseudocode"
-
+Ejercicio 5: 
 algoritmo Par_o_Impar
- Definir A como Real;
-Mostrar " escriba un número para saber si es par o impar: ";
-Leer A;
-Si  A%2  =0 entonces mostrar "par ";
-Sino mostrar " Impar";
+ Definir A como Real
+Escribir " escriba un número para saber si es par o impar: "
+Leer A
+Si  A%2  =0 entonces mostrar "par "
+Sino Escribir " Impar"
 Finsi 
     finalgoritmo
 
+Clase 4:
+Ejercicio 1:
+1. iniciar el algoritmo Saludar
+2. Declarar la variable nombre como texto
+3. pedirle al usuario que introduzca su nombre y leer la variable nombre
+4. escribir " Hola", nombre 
+5. Finalizar el algoritmo 
+
+Ejercicio 2:
 
 
 
