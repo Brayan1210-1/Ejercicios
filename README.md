@@ -45,3 +45,7 @@ Finsi
 Finalgoritmo
 
 Clase 3:
+
+-Búsqueda secuencial en una lista O(n)
+-Ordenamiento por burbuja O(n²)
+-Búsqueda binaria en array ordenado O(log n)
