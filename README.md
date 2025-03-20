@@ -22,7 +22,9 @@ El semáforo funciona por medio del tiempo, o sea, cada color se mantiene durant
 
 Ejercicio 4:
 Lista: 2,4,6,8
+
 El patrón es que los números aumentan de 2 en 2
+
 La relación que tienen es que son pares, enteros y naturales 
 
 Clase 2:
@@ -82,10 +84,15 @@ finalgoritmo
 
 Clase 4:
 Ejercicio 1:
+
 1. iniciar el algoritmo Saludar
+
 2. Declarar la variable nombre como texto
+
 3. pedirle al usuario que introduzca su nombre y leer la variable nombre
+
 4. escribir " Hola", nombre 
+
 5. Finalizar el algoritmo 
 
 Ejercicio 2:
