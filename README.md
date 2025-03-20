@@ -26,14 +26,22 @@ El patrón es que los números aumentan de 2 en 2
 La relación que tienen es que son pares, enteros y naturales 
 
 Clase 2:
-Algoritmo Par_Impar
+Algoritmo Par_Impar 
+
 Inicio
+
 Se define A como real
+
 Mostrar "escriba un número para saber si es par o impar"
+
 Leer A
+
 Si la división de A entre 2 no tiene residuo entonces se muestra "Par"
+
 Sino se muestra "impar"
+
 Finsi
+
 Finalgoritmo
 
 Clase 3:
