@@ -56,6 +56,7 @@ Ejercicio 3:
 Clase 3:
 Ejercicio 1:
  Definir edad como entero
+
 Edad = 18
 
 Ejercicio 2:
@@ -63,8 +64,10 @@ Ejercicio 2:
 
 Ejercicio 4:
 Si número > 10 && número < 20
+
 Entonces escribir "si está"
-Sino "no está"
+
+Sino escribir "no está"
 
 Ejercicio 5: 
 algoritmo Par_o_Impar
